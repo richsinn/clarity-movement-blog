@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Spacious\n"
-"POT-Creation-Date: 2014-06-23 22:12+0545\n"
-"PO-Revision-Date: 2014-06-23 22:12+0545\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2014-03-20 18:51+0545\n"
+"PO-Revision-Date: 2014-04-25 19:06+0400\n"
+"Last-Translator: Alexander Gavrilov <a.r3uaa@gmail.com>\n"
 "Language-Team: ThemeGrill <themegrill@gmail.com>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -18,692 +18,708 @@ msgstr ""
 
 #: 404.php:22
 msgid "Oops! That page can&rsquo;t be found."
-msgstr ""
+msgstr "Упс! Страница не найдена."
 
 #: 404.php:24
 msgid "It looks like nothing was found at this location. Try the search below."
-msgstr ""
+msgstr "По этому адресу ничего не найдено. Воспользуйтесь поиском."
 
 #: comments.php:31
 #, php-format
 msgid "One thought on &ldquo;%2$s&rdquo;"
-msgstr ""
+msgstr "Одно мнение о &ldquo;%2$s&rdquo;"
 
 #: comments.php:38 comments.php:55
 msgid "Comment navigation"
-msgstr ""
+msgstr "Навигация по комментариям"
 
 #: comments.php:39 comments.php:56
 msgid "&larr; Older Comments"
-msgstr ""
+msgstr "&larr; Старые комментарии"
 
 #: comments.php:40 comments.php:57
 msgid "Newer Comments &rarr;"
-msgstr ""
+msgstr "Новые комментарии &rarr;"
 
 #: comments.php:67
 msgid "Comments are closed."
-msgstr ""
+msgstr "Комментарии запрещены."
 
 #: content-blog-full-content.php:23 content-page.php:17 content-single.php:29
 msgid "Pages:"
-msgstr ""
+msgstr "Страницы:"
 
 #: content-blog-full-content.php:39 content-blog-image-large.php:52
-#: content-blog-image-medium.php:54 content-single.php:45 content.php:60
+#: content-blog-image-medium.php:54 content-single.php:45 content.php:41
 msgid "No Comments"
-msgstr ""
+msgstr "Комментариев нет"
 
 #: content-blog-full-content.php:39 content-blog-image-large.php:52
-#: content-blog-image-medium.php:54 content-single.php:45 content.php:60
+#: content-blog-image-medium.php:54 content-single.php:45 content.php:41
 msgid "1 Comment"
-msgstr ""
+msgstr "Один комментарий"
 
 #: content-blog-full-content.php:39 content-blog-image-large.php:52
-#: content-blog-image-medium.php:54 content-single.php:45 content.php:60
+#: content-blog-image-medium.php:54 content-single.php:45 content.php:41
 msgid "% Comments"
-msgstr ""
+msgstr "% комментария (-ев)"
 
 #: content-blog-full-content.php:39 content-blog-image-large.php:52
-#: content-blog-image-medium.php:54 content-single.php:45 content.php:60
+#: content-blog-image-medium.php:54 content-single.php:45 content.php:41
 msgid "Comments Off"
-msgstr ""
+msgstr "Комментраии выключены"
 
 #: content-blog-full-content.php:41 content-blog-image-large.php:54
 #: content-blog-image-medium.php:56 content-page.php:26 content-single.php:47
-#: content.php:62
+#: content.php:43
 msgid "Edit"
-msgstr ""
+msgstr "Редактировать"
 
 #: content-blog-image-large.php:55 content-blog-image-medium.php:57
-#: content.php:63 inc/header-functions.php:111 inc/widgets/widgets.php:258
-#: inc/widgets/widgets.php:357
+#: content.php:44 inc/header-functions.php:101 inc/widgets/widgets.php:357
 msgid "Read more"
-msgstr ""
+msgstr "Подробнее"
 
 #: content-single.php:22
 msgid "Tagged on: "
-msgstr ""
+msgstr "Метки:"
 
-#: header.php:84
+#: header.php:87
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 #: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
 msgid "Select Layout"
-msgstr ""
+msgstr "Выберите макет"
 
 #: inc/admin/meta-boxes.php:28
 msgid "Default Layout"
-msgstr ""
+msgstr "Макет по умолчанию"
 
 #: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:18
 msgid "Right Sidebar"
-msgstr ""
+msgstr "Правый сайдбар"
 
 #: inc/admin/meta-boxes.php:38 inc/widgets/widgets.php:29
 msgid "Left Sidebar"
-msgstr ""
+msgstr "Левый сайдбар"
 
 #: inc/admin/meta-boxes.php:43
 msgid "No Sidebar Full Width"
-msgstr ""
+msgstr "Без сайдбара в полную ширину"
 
 #: inc/admin/meta-boxes.php:48
 msgid "No Sidebar Content Centered"
-msgstr ""
+msgstr "Без сайдбара по центру"
 
 #: inc/admin/options/includes/class-options-framework-admin.php:85
 #: inc/admin/options/includes/class-options-framework-admin.php:86
 #: inc/admin/options/includes/class-options-framework-admin.php:307
 msgid "Theme Options"
-msgstr ""
+msgstr "Настройки темы"
 
 #: inc/admin/options/includes/class-options-framework-admin.php:173
 msgid "Save Options"
-msgstr ""
+msgstr "Сохранить настройки"
 
 #: inc/admin/options/includes/class-options-framework-admin.php:174
 msgid "Restore Defaults"
-msgstr ""
+msgstr "Восстановить по умолчанию"
 
 #: inc/admin/options/includes/class-options-framework-admin.php:174
 msgid "Click OK to reset. Any theme settings will be lost!"
-msgstr ""
+msgstr "Нажмите OK для сброса. Все настройки темы будут утеряны!"
 
 #: inc/admin/options/includes/class-options-framework-admin.php:205
 msgid "Default options restored."
-msgstr ""
+msgstr "Значения по умолчанию восстановлены."
 
 #: inc/admin/options/includes/class-options-framework-admin.php:259
 msgid "Options saved."
-msgstr ""
+msgstr "Настройки сохранены."
 
 #: inc/admin/options/includes/class-options-media-uploader.php:63
 msgid "No file chosen"
-msgstr ""
+msgstr "Файл не выбран"
 
 #: inc/admin/options/includes/class-options-media-uploader.php:66
 #: inc/admin/options/includes/class-options-media-uploader.php:119
 msgid "Upload"
-msgstr ""
+msgstr "Загрузить"
 
 #: inc/admin/options/includes/class-options-media-uploader.php:68
 #: inc/admin/options/includes/class-options-media-uploader.php:120
 msgid "Remove"
-msgstr ""
+msgstr "Удалить"
 
 #: inc/admin/options/includes/class-options-media-uploader.php:71
 msgid "Upgrade your version of WordPress for full media support."
-msgstr ""
+msgstr "Обновите свою версию WordPress для полной поддержки медиа."
 
 #: inc/admin/options/includes/class-options-media-uploader.php:95
 msgid "View File"
-msgstr ""
+msgstr "Просмотреть файл"
 
 #: inc/admin/options/includes/class-options-sanitization.php:241
 msgid "No Repeat"
-msgstr ""
+msgstr "Не повторять"
 
 #: inc/admin/options/includes/class-options-sanitization.php:242
 msgid "Repeat Horizontally"
-msgstr ""
+msgstr "Повторять горизонтально"
 
 #: inc/admin/options/includes/class-options-sanitization.php:243
 msgid "Repeat Vertically"
-msgstr ""
+msgstr "Повторять вертикально"
 
 #: inc/admin/options/includes/class-options-sanitization.php:244
 msgid "Repeat All"
-msgstr ""
+msgstr "Повторять всё"
 
 #: inc/admin/options/includes/class-options-sanitization.php:257
 msgid "Top Left"
-msgstr ""
+msgstr "Верхний левый"
 
 #: inc/admin/options/includes/class-options-sanitization.php:258
 msgid "Top Center"
-msgstr ""
+msgstr "Верхний по центру"
 
 #: inc/admin/options/includes/class-options-sanitization.php:259
 msgid "Top Right"
-msgstr ""
+msgstr "Верхний правый"
 
 #: inc/admin/options/includes/class-options-sanitization.php:260
 msgid "Middle Left"
-msgstr ""
+msgstr "По середине слева"
 
 #: inc/admin/options/includes/class-options-sanitization.php:261
 msgid "Middle Center"
-msgstr ""
+msgstr "По середине по центру"
 
 #: inc/admin/options/includes/class-options-sanitization.php:262
 msgid "Middle Right"
-msgstr ""
+msgstr "По середине справа"
 
 #: inc/admin/options/includes/class-options-sanitization.php:263
 msgid "Bottom Left"
-msgstr ""
+msgstr "Снизу слева"
 
 #: inc/admin/options/includes/class-options-sanitization.php:264
 msgid "Bottom Center"
-msgstr ""
+msgstr "Снизу по центру"
 
 #: inc/admin/options/includes/class-options-sanitization.php:265
 msgid "Bottom Right"
-msgstr ""
+msgstr "Снизу справа"
 
 #: inc/admin/options/includes/class-options-sanitization.php:278
 msgid "Scroll Normally"
-msgstr ""
+msgstr "Нориальная прокрутка"
 
 #: inc/admin/options/includes/class-options-sanitization.php:279
 msgid "Fixed in Place"
-msgstr ""
+msgstr "Закреплено на месте"
 
 #: inc/admin/options/includes/class-options-sanitization.php:353
 msgid "Normal"
-msgstr ""
+msgstr "Нормальный"
 
 #: inc/admin/options/includes/class-options-sanitization.php:354
 msgid "Italic"
-msgstr ""
+msgstr "Курсив"
 
 #: inc/admin/options/includes/class-options-sanitization.php:355
 msgid "Bold"
-msgstr ""
+msgstr "Жирный"
 
 #: inc/admin/options/includes/class-options-sanitization.php:356
 msgid "Bold Italic"
-msgstr ""
+msgstr "Жирный курсив"
 
-#: inc/functions.php:325
+#: inc/functions.php:320
 msgid "Post navigation"
-msgstr ""
+msgstr "Навигация по записям"
 
-#: inc/functions.php:329 navigation.php:42
+#: inc/functions.php:324 navigation.php:42
 msgid "&larr;"
-msgstr ""
+msgstr "&larr;"
 
-#: inc/functions.php:330 navigation.php:43
+#: inc/functions.php:325 navigation.php:43
 msgid "&rarr;"
-msgstr ""
+msgstr "&rarr;"
 
-#: inc/functions.php:335
+#: inc/functions.php:330
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
-msgstr ""
+msgstr "<span class=\"meta-nav\">&larr;</span> Старые записи"
 
-#: inc/functions.php:339
+#: inc/functions.php:334
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
-msgstr ""
+msgstr "Новые записи <span class=\"meta-nav\">&rarr;</span>"
 
-#: inc/functions.php:365
+#: inc/functions.php:360
 msgid "Pingback:"
-msgstr ""
+msgstr "Pingback:"
 
-#: inc/functions.php:365
+#: inc/functions.php:360
 msgid "(Edit)"
-msgstr ""
+msgstr "(Редактировать)"
 
-#: inc/functions.php:380
+#: inc/functions.php:375
 msgid "Post author"
-msgstr ""
+msgstr "Автор записи"
 
-#: inc/functions.php:383
+#: inc/functions.php:378
 #, php-format
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "%1$s на %2$s"
 
-#: inc/functions.php:385
+#: inc/functions.php:380
 #, php-format
 msgid "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
-msgstr ""
+msgstr "<a class=\"comment-permalink\" href=\"%1$s\">Постоянная ссылка</a>"
+
+#: inc/functions.php:386
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает одобрения."
 
 #: inc/functions.php:391
-msgid "Your comment is awaiting moderation."
-msgstr ""
-
-#: inc/functions.php:396
 msgid "Reply"
-msgstr ""
+msgstr "Ответить"
 
-#: inc/functions.php:450
+#: inc/functions.php:445
 msgid "WordPress"
-msgstr ""
+msgstr "WordPress"
 
-#: inc/functions.php:459
+#: inc/functions.php:454
 msgid "ThemeGrill"
-msgstr ""
+msgstr "ThemeGrill"
 
-#: inc/functions.php:468
+#: inc/functions.php:463
 msgid "Copyright &copy; "
-msgstr ""
+msgstr "Copyright &copy; "
 
-#: inc/functions.php:468
-msgid "Theme by: "
-msgstr ""
+#: inc/functions.php:463
+msgid "Theme by: spacious"
+msgstr "Тема: spacious"
 
-#: inc/functions.php:468
+#: inc/functions.php:463
 msgid "Powered by: "
-msgstr ""
+msgstr "Работает на: "
 
 #: inc/header-functions.php:47
 #, php-format
 msgid "Page %s"
-msgstr ""
+msgstr "Страница %s"
 
-#: inc/header-functions.php:145
+#: inc/header-functions.php:135
 #, php-format
 msgid "Author: %s"
-msgstr ""
+msgstr "Автор: %s"
 
-#: inc/header-functions.php:153
+#: inc/header-functions.php:143
 #, php-format
 msgid "Day: %s"
-msgstr ""
+msgstr "День: %s"
 
-#: inc/header-functions.php:156
+#: inc/header-functions.php:146
 #, php-format
 msgid "Month: %s"
-msgstr ""
+msgstr "Месяц: %s"
 
-#: inc/header-functions.php:159
+#: inc/header-functions.php:149
 #, php-format
 msgid "Year: %s"
-msgstr ""
+msgstr "Год: %s"
 
-#: inc/header-functions.php:162
+#: inc/header-functions.php:152
 msgid "Asides"
-msgstr ""
+msgstr "Резервы"
 
-#: inc/header-functions.php:165
+#: inc/header-functions.php:155
 msgid "Images"
-msgstr ""
+msgstr "Изображения"
 
-#: inc/header-functions.php:168
+#: inc/header-functions.php:158
 msgid "Videos"
-msgstr ""
+msgstr "Видео"
 
-#: inc/header-functions.php:171
+#: inc/header-functions.php:161
 msgid "Quotes"
-msgstr ""
+msgstr "Цитаты"
 
-#: inc/header-functions.php:174
+#: inc/header-functions.php:164
 msgid "Links"
-msgstr ""
+msgstr "Ссылки"
 
-#: inc/header-functions.php:177 sidebar-left.php:29 sidebar.php:29
+#: inc/header-functions.php:167 sidebar-left.php:29 sidebar.php:29
 msgid "Archives"
-msgstr ""
+msgstr "Архивы"
 
-#: inc/header-functions.php:182
+#: inc/header-functions.php:172
 msgid "Page NOT Found"
-msgstr ""
+msgstr "Страница не найдена"
 
-#: inc/header-functions.php:185
+#: inc/header-functions.php:175
 msgid "Search Results"
-msgstr ""
+msgstr "Результаты поиска"
 
-#: inc/header-functions.php:214
+#: inc/header-functions.php:204
 msgid "You are here:"
-msgstr ""
+msgstr "Вы здесь:"
 
 #: inc/widgets/widgets.php:20
 msgid "Shows widgets at Right side."
-msgstr ""
+msgstr "Показывает виджеты справа."
 
 #: inc/widgets/widgets.php:31
 msgid "Shows widgets at Left side."
-msgstr ""
+msgstr "Показывает виджеты слева"
 
 #: inc/widgets/widgets.php:40
 msgid "Header Sidebar"
-msgstr ""
+msgstr "Сайдбар заголовка"
 
 #: inc/widgets/widgets.php:42
 msgid "Shows widgets in header section just above the main navigation menu."
-msgstr ""
+msgstr "Показывает виджеты в заголовке сразу сверху меню навигации."
 
 #: inc/widgets/widgets.php:51
 msgid "Business Top Sidebar"
-msgstr ""
+msgstr "Верхний сайдбар на странице Business"
 
 #: inc/widgets/widgets.php:53
-msgid "Shows widgets on Business Page Template Top Section."
+msgid "Shows widgets on Business Page Template Top Section. Sutiable widget: "
 msgstr ""
-
-#: inc/widgets/widgets.php:53 inc/widgets/widgets.php:87
-msgid ""
-"Suitable widget: TG: Services, TG: Call To Action Widget, TG: Featured Widget"
-msgstr ""
+"Показывает виджеты на странице делового шаблона в верхней секции. Подходящие "
+"виджеты:"
 
 #: inc/widgets/widgets.php:62
 msgid "Business Middle Left Sidebar"
-msgstr ""
+msgstr "Cайдбар по середине слева на странице Business"
 
 #: inc/widgets/widgets.php:64
-msgid "Shows widgets on Business Page Template Middle Section Left Half."
+msgid ""
+"Shows widgets on Business Page Template Middle Section Left Half. Sutiable "
+"widget: "
 msgstr ""
-
-#: inc/widgets/widgets.php:64 inc/widgets/widgets.php:75
-msgid "Suitable widget: TG: Testimonial, TG: Featured Single Page"
-msgstr ""
+"Показывает виджеты на странице делового шаблона в средней секции слева. "
+"Подходящие виджеты:"
 
 #: inc/widgets/widgets.php:73
 msgid "Business Middle Right Sidebar"
-msgstr ""
+msgstr "Cайдбар справа на странице Business"
 
 #: inc/widgets/widgets.php:75
-msgid "Shows widgets on Business Page Template Middle Section Right Half."
+msgid ""
+"Shows widgets on Business Page Template Middle Section Right Half. Sutiable "
+"widget: "
 msgstr ""
+"Показывает виджеты на странице делового шаблона в средней секции справа. "
+"Подходящие виджеты:"
 
 #: inc/widgets/widgets.php:85
 msgid "Business Bottom Sidebar"
-msgstr ""
+msgstr "Cайдбар снизу на странице Business"
 
 #: inc/widgets/widgets.php:87
-msgid "Shows widgets on Business Page Template Bottom Section."
+msgid ""
+"Shows widgets on Business Page Template Bottom Section. Sutiable widget: "
 msgstr ""
+"Показывает виджеты на странице делового шаблона в нижней секции. Подходящие "
+"виджеты:"
 
 #: inc/widgets/widgets.php:96
 msgid "Contact Page Sidebar"
-msgstr ""
+msgstr "Сайдбар на странице контактов"
 
 #: inc/widgets/widgets.php:98
 msgid "Shows widgets on Contact Page Template."
-msgstr ""
+msgstr "Показывает сайдбар на странице контактов."
 
 #: inc/widgets/widgets.php:107
 msgid "Error 404 Page Sidebar"
-msgstr ""
+msgstr "Сайдбар на странице 404"
 
 #: inc/widgets/widgets.php:109
 msgid "Shows widgets on Error 404 page."
-msgstr ""
+msgstr "Показывает виджеты на странице ошибки 404"
 
 #: inc/widgets/widgets.php:118
 msgid "Footer Sidebar One"
-msgstr ""
+msgstr "Первый сайдбар подвала"
 
 #: inc/widgets/widgets.php:120
 msgid "Shows widgets at footer sidebar one."
-msgstr ""
+msgstr "Показывать виджеты в зоне первого сайдбара подвала."
 
 #: inc/widgets/widgets.php:129
 msgid "Footer Sidebar Two"
-msgstr ""
+msgstr "Второй сайдбар подвала"
 
 #: inc/widgets/widgets.php:131
 msgid "Shows widgets at footer sidebar two."
-msgstr ""
+msgstr "Показывать виджеты в зоне второго сайдбара подвала."
 
 #: inc/widgets/widgets.php:140
 msgid "Footer Sidebar Three"
-msgstr ""
+msgstr "Третий  сайдбар подвала"
 
 #: inc/widgets/widgets.php:142
 msgid "Shows widgets at footer sidebar three."
-msgstr ""
+msgstr "Показывать виджеты в зоне третьего сайдбара подвала."
 
 #: inc/widgets/widgets.php:151
 msgid "Footer Sidebar Four"
-msgstr ""
+msgstr "Четвертый сайдбар подвала"
 
 #: inc/widgets/widgets.php:153
 msgid "Shows widgets at footer sidebar four."
-msgstr ""
+msgstr "Показывать виджеты в зоне четвертого сайдбара подвала."
 
 #: inc/widgets/widgets.php:176
 msgid "Display Featured Single Page"
-msgstr ""
+msgstr "Показывать связанные страницы"
 
 #: inc/widgets/widgets.php:187
 msgid ""
 "Suitable for Home Top Sidebar, Home Bottom Left Sidebar and Side Sidbar."
 msgstr ""
+"Подходит для верхнего сайдбара домашней страницы, нижнего левого сайдбара "
+"домашней страницы и боковой панели."
 
 #: inc/widgets/widgets.php:190 inc/widgets/widgets.php:522
 #: inc/widgets/widgets.php:567
 msgid "Title:"
-msgstr ""
+msgstr "Заголовок:"
 
 #: inc/widgets/widgets.php:193
 msgid "Displays the title of the Page if title input is empty."
-msgstr ""
+msgstr "Показывает заголовок страницы, если указано пустой."
 
 #: inc/widgets/widgets.php:196 inc/widgets/widgets.php:294
 #: inc/widgets/widgets.php:576
 msgid "Page"
-msgstr ""
+msgstr "Страница"
 
 #: inc/widgets/widgets.php:200
 msgid "Remove Featured image"
-msgstr ""
+msgstr "Убрать связанное изображение"
 
 #: inc/widgets/widgets.php:205 inc/widgets/widgets.php:210
 msgid "Show Image Before Title"
-msgstr ""
+msgstr "Показывать изображение перед заголовком"
 
 #: inc/widgets/widgets.php:206 inc/widgets/widgets.php:211
 msgid "Show Image After Title"
-msgstr ""
+msgstr "Показывать изображение после заголовка"
 
 #: inc/widgets/widgets.php:276
 msgid ""
 "Display some pages as services. Best for Business Top or Bottom sidebar."
 msgstr ""
+"Показывать некоторые страницы как услуги. Лучший для верхней или нижней "
+"боковой панели Деловой страницы."
 
 #: inc/widgets/widgets.php:278
 msgid "TG: Services"
-msgstr ""
+msgstr "TG: Услуги"
 
 #: inc/widgets/widgets.php:377
 msgid "Use this widget to show the call to action section."
-msgstr ""
+msgstr "Используйте этот виджет для отображения секции Призыв к действию."
 
 #: inc/widgets/widgets.php:379
 msgid "TG: Call To Action Widget"
-msgstr ""
+msgstr "TG: Виджет Призыв к действию"
 
 #: inc/widgets/widgets.php:395
 msgid "Call to Action Main Text"
-msgstr ""
+msgstr "Главный текст Призыва к действию"
 
 #: inc/widgets/widgets.php:397
 msgid "Call to Action Additional Text"
-msgstr ""
+msgstr "Дополнительный текст Призыва к действию"
 
 #: inc/widgets/widgets.php:400
 msgid "Button Text:"
-msgstr ""
+msgstr "Текст кнопки"
 
 #: inc/widgets/widgets.php:404
 msgid "Button Redirect Link:"
-msgstr ""
+msgstr "Ссылка кнопки"
 
 #: inc/widgets/widgets.php:477
 msgid "Display Testimonial"
-msgstr ""
+msgstr "Показать характеристики"
 
 #: inc/widgets/widgets.php:479
 msgid "TG: Testimonial"
-msgstr ""
+msgstr "TG: Характеристики"
 
 #: inc/widgets/widgets.php:524
 msgid "Testimonial Description"
-msgstr ""
+msgstr "Описание характеристики"
 
 #: inc/widgets/widgets.php:527
 msgid "Name:"
-msgstr ""
+msgstr "Имя:"
 
 #: inc/widgets/widgets.php:530
 msgid "Byline:"
-msgstr ""
+msgstr "Автор сообщения:"
 
 #: inc/widgets/widgets.php:544
 msgid ""
 "Show your some pages as recent work. Best for Business Top or Bottom sidebar."
 msgstr ""
+"Показывает несколько страниц, как последние работы. Лучший для верхней или "
+"нижней боковой панели бизнес-страниц."
 
 #: inc/widgets/widgets.php:546
 msgid "TG: Featured Widget"
-msgstr ""
+msgstr "TG: Виджет связанное"
 
 #: inc/widgets/widgets.php:570
 msgid "Description"
-msgstr ""
+msgstr "Описание"
 
 #: navigation.php:22
 msgid "&laquo; Previous"
-msgstr ""
+msgstr "&laquo; Назад"
 
 #: navigation.php:23
 msgid "Next &raquo;"
-msgstr ""
+msgstr "Вперед &raquo;"
 
 #: navigation.php:34
 msgid "&larr; Previous"
-msgstr ""
+msgstr "&larr; Назад"
 
 #: navigation.php:35
 msgid "Next &rarr;"
-msgstr ""
+msgstr "Вперед &rarr;"
 
 #: no-results.php:18
 #, php-format
 msgid ""
 "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
 msgstr ""
+"Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
 
 #: no-results.php:22
 msgid ""
 "Sorry, but nothing matched your search terms. Please try again with some "
 "different keywords."
 msgstr ""
+"Извините, по Вашему запросу ничего не найдено. Попробуйте поискать что-то "
+"другое."
 
 #: no-results.php:27
 msgid ""
 "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
 "searching can help."
-msgstr ""
+msgstr "Похоже мы не можем найти то, что вы ищите. Возможно Вам поможет поиск."
 
 #: options.php:31
 msgid "Header"
-msgstr ""
+msgstr "Заголовок"
 
 #: options.php:37
 msgid "Header Logo"
-msgstr ""
+msgstr "Логотип заголовка"
 
 #: options.php:38
 msgid "Upload logo for your header."
-msgstr ""
+msgstr "Загрузить логотип в заголовок."
 
 #: options.php:45
 msgid "Header Logo Only"
-msgstr ""
+msgstr "Только логотип заголовка"
 
 #: options.php:46
 msgid "Header Text Only"
-msgstr ""
+msgstr "Только текст заголовка"
 
 #: options.php:47
 msgid "Show Both"
-msgstr ""
+msgstr "Показывать оба"
 
 #: options.php:48
 msgid "Disable"
-msgstr ""
+msgstr "Отключить"
 
 #: options.php:51
 msgid "Show"
-msgstr ""
+msgstr "Показать"
 
 #: options.php:52
 msgid "Choose the option that you want."
-msgstr ""
+msgstr "Выберите нужную опцию."
 
 #: options.php:61
 msgid "Need to replace Header Image?"
-msgstr ""
+msgstr "Нужно заменить изображение заголовка?"
 
 #: options.php:62 options.php:167
 #, php-format
 msgid "<a href=\"%1$s\">Click Here</a>"
-msgstr ""
+msgstr "<a href=\"%1$s\">Нажмите здесь</a>"
 
 #: options.php:68
 msgid "Heder Image Position"
-msgstr ""
+msgstr "Расположение изображения заголовка"
 
 #: options.php:69
 msgid "Choose top header image display position."
-msgstr ""
+msgstr "Выберите расположение изображения верхнего заголовка."
 
 #: options.php:74
 msgid ""
 "Position Above (Default): Display the Header image just above the site title "
 "and main menu part."
 msgstr ""
+"Позиция Сверху (по умолчанию): Отображает изображение заголовка чуть выше "
+"названия сайта и основной части меню."
 
 #: options.php:75
 msgid ""
 "Position Below: Display the Header image just below the site title and main "
 "menu part."
 msgstr ""
+"Позиция Снизу: Отображает изображение заголовка чуть ниже названия сайта и "
+"основной части меню."
 
 #: options.php:83
 msgid "Design"
-msgstr ""
+msgstr "Дизайн"
 
 #: options.php:88
 msgid "Site Layout"
-msgstr ""
+msgstr "Макет сайта"
 
 #: options.php:89
 msgid "Choose your site layout. The change is reflected in whole site."
-msgstr ""
+msgstr "Выберите макет сайта. Изменения затронут весь сайт."
 
 #: options.php:94
 msgid "Boxed layout with content width of 1218px"
-msgstr ""
+msgstr "Коробочный макет с шириной контента 1218px"
 
 #: options.php:95
 msgid "Boxed layout with content width of 978px"
-msgstr ""
+msgstr "Коробочный макет с шириной контента 978px"
 
 #: options.php:96
 msgid "Wide layout with content width of 1218px"
-msgstr ""
+msgstr "Широкий макет с шириной контента 1218px"
 
 #: options.php:97
 msgid "Wide layout with content width of 978px"
-msgstr ""
+msgstr "Широкий макет с шириной контента 978px"
 
 #: options.php:102
 msgid "Default layout"
-msgstr ""
+msgstr "Макет по умолчанию"
 
 #: options.php:103
 msgid ""
@@ -711,163 +727,168 @@ msgid ""
 "search etc. The layout for a single post and page can be controlled from "
 "below options."
 msgstr ""
+"Выберите макет по умолчанию. Этот макет будет отражен в архивах сайта, "
+"поиске и т.д. Компоновку для одного поста и страницы можно установить из "
+"вариантов снизу."
 
 #: options.php:116
 msgid "Default layout for pages only"
-msgstr ""
+msgstr "Шаблон по умолчанию для страниц"
 
 #: options.php:117
 msgid ""
 "Select default layout for pages. This layout will be reflected in all pages "
 "unless unique layout is set for specific page."
 msgstr ""
+"Выбор макета по умолчанию для страниц. Затронет все страницы, если для них "
+"не указано иное."
 
 #: options.php:130
 msgid "Default layout for single posts only"
-msgstr ""
+msgstr "Шаблон по умочанию для одиночных постов"
 
 #: options.php:131
 msgid ""
 "Select default layout for single posts. This layout will be reflected in all "
 "single posts unless unique layout is set for specific post."
 msgstr ""
+"Выбор макета по умолчанию для одиночных постов. Затронет все одиночные "
+"посты, если для них не указано иное."
 
 #: options.php:145
 msgid "Primary color option"
-msgstr ""
+msgstr "Основные цвета"
 
 #: options.php:146
 msgid ""
 "This will reflect in links, buttons and many others. Choose a color to match "
 "your site."
-msgstr ""
+msgstr "Настройка цветовой схемы сайта. Ссылки, кнопки и др."
 
 #: options.php:154
 msgid "Color Skin"
-msgstr ""
+msgstr "Цветовая схема"
 
 #: options.php:155
 msgid "Choose the light or dark skin. This will be reflected in whole site."
-msgstr ""
+msgstr "Выберите светлую или темную схему. Затронет весь сайт."
 
 #: options.php:166
 msgid "Need to replace default background?"
-msgstr ""
+msgstr "Нужно заменить фоновое изображение?"
 
 #: options.php:167
 msgid ""
 "Note: The background will only be seen if you choose any of the boxed layout "
 "option in site layout option."
 msgstr ""
+"Заметка: Фоновое изображение видно только если выбран Коробочный шаблон "
+"сайта."
 
 #: options.php:172
 msgid "Custom CSS"
-msgstr ""
+msgstr "Свой CSS"
 
 #: options.php:173
 msgid "Write your custom css."
-msgstr ""
+msgstr "Напишите свой CSS."
 
 #: options.php:182
 msgid "Additional"
-msgstr ""
+msgstr "Дополнительно"
 
 #: options.php:188
 msgid "Activate favicon"
-msgstr ""
+msgstr "Активировать favicon"
 
 #: options.php:189
 msgid "Check to activate favicon. Upload fav icon from below option"
-msgstr ""
+msgstr "Отметьте, чтобы активировать favicon. Загрузите иконку в опции ниже"
 
 #: options.php:197
 msgid "Upload favicon"
-msgstr ""
+msgstr "Загрузить favicon"
 
 #: options.php:198
 msgid "Upload favicon for your site."
-msgstr ""
+msgstr "Загрузить favicon для Вашего сайта."
 
 #: options.php:206
 msgid "Slider"
-msgstr ""
+msgstr "Слайдер"
 
 #: options.php:212
 msgid "Activate slider"
-msgstr ""
+msgstr "Активировать слайдер"
 
 #: options.php:213
 msgid "Check to activate slider."
-msgstr ""
+msgstr "Отметьте для активации слайдера"
 
 #: options.php:222
 #, php-format
 msgid "Image Upload #%1$s"
-msgstr ""
+msgstr "Загрузка иображения #%1$s"
 
 #: options.php:223
 msgid "Upload slider image."
-msgstr ""
+msgstr "Загрузите изображения в слайдер"
 
 #: options.php:228
 #, php-format
 msgid "Slider Title %1$s"
-msgstr ""
+msgstr "Заголовок слайдера %1$s"
 
 #: options.php:229
 msgid "Enter title for your slider."
-msgstr ""
+msgstr "Укажите заголовок для Вашего слайдера."
 
 #: options.php:235
 #, php-format
 msgid "Slider Description %1$s"
-msgstr ""
+msgstr "Описание слайдера %1$s"
 
 #: options.php:236
 msgid "Enter your slider description."
-msgstr ""
+msgstr "Укажите описание Вашего сладера."
 
 #: options.php:242
 #, php-format
 msgid "Slider redirect link %1$s"
-msgstr ""
+msgstr "Ссылка слайда %1$s"
 
 #: options.php:243
 msgid "Enter link to redirect slider when clicked"
-msgstr ""
+msgstr "Укажите ссылку для слайда"
 
 #: options.php:262
 msgid "About Spacious"
-msgstr ""
+msgstr "О Spacious"
 
 #: options.php:264
 msgid "Upgrade to Pro"
-msgstr ""
+msgstr "Обновить до Pro"
 
 #: options.php:265
 msgid "Free Support"
-msgstr ""
+msgstr "Бесплатная поддержка"
 
 #: options.php:266
 msgid "Documentation"
-msgstr ""
+msgstr "Документация"
 
 #: options.php:267
 msgid "View Demo"
-msgstr ""
+msgstr "Посмотреть демо"
 
-#: options.php:268
-msgid "Rate this theme"
-msgstr ""
-
-#: options.php:271
+#: options.php:270
 msgid "If you like our work. Buy us a beer."
-msgstr ""
+msgstr "Если Вам понравилась наша работа, Купите нам пива."
 
 #: searchform.php:12 searchform.php:15
 msgid "Search"
-msgstr ""
+msgstr "Поиск"
 
 #: sidebar-left.php:36 sidebar.php:36
 msgid "Meta"
-msgstr ""
+msgstr "Мета"
